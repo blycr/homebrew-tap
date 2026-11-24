@@ -1,6 +1,6 @@
 cask "keycat" do
-  version "2.1.1"
-  sha256 "96092ed9ae01b9814aa1ccce00cf3e362ed39b878f59740c513187be8d41a49c"
+  version "2.2.0"
+  sha256 "2700265f78dac20b73bea2d2c78e20a37106530786d27833609e4cda6c575e03"
 
   url "https://github.com/blycr/KeyCat_Slim/releases/download/v#{version}/KeyCat-macOS.zip"
   name "KeyCat"
