@@ -5,7 +5,7 @@
 ## 安装
 
 ```sh
-brew install --cask --no-quarantine blycr/tap/keycat
+brew install --cask blycr/tap/keycat
 ```
 
 ## 升级与卸载
